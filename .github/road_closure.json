@@ -1,0 +1,10 @@
+{
+  "type": "road_closure",
+  "location": { "lat": 35.0, "lon": -117.0 },
+  "radius_meters": 500,
+  "description": "Accident blocking both lanes.",
+  "severity": "high",
+  "source": "official",
+  "reported_at": "2026-08-20T05:02:00Z",
+  "expires_at": "2026-08-20T07:00:00Z"
+}

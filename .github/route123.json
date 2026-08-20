@@ -1,0 +1,21 @@
+{
+  "route_id": "route-123",
+  "events": [
+    {
+      "timestamp": "2026-08-20T05:00:00Z",
+      "type": "ROUTE_CREATED",
+      "details": {
+        "risk_score": 0.22,
+        "constraints": { "max_risk_score": 0.3 }
+      }
+    },
+    {
+      "timestamp": "2026-08-20T05:30:00Z",
+      "type": "REROUTED_DUE_TO_INCIDENT",
+      "details": {
+        "incident_id": "inc-789",
+        "reason": "High-severity accident on original path."
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+skyroute/
+├── api/
+│   ├── routes.py
+│   ├── incidents.py
+│   ├── telemetry.py
+│   ├── policies.py
+│   └── audit.py
+├── core/
+│   ├── routing_engine.py
+│   ├── safety_engine.py
+│   ├── context_aggregator.py
+│   └── governance.py
+├── models/
+│   ├── route_request.py
+│   ├── route.py
+│   ├── incident.py
+│   ├── vehicle_state.py
+│   ├── constraints.py
+│   └── policy.py
+├── services/
+│   ├── traffic_service.py
+│   ├── weather_service.py
+│   ├── incident_service.py
+│   └── telemetry_service.py
+└── main.py

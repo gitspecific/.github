@@ -1,0 +1,7 @@
+{
+  "type": "truck",
+  "speed": 22.5,
+  "battery_level": 60,
+  "health_status": "ok",
+  "driver_hours_used": 5
+}

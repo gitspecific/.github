@@ -1,0 +1,16 @@
+{
+  "origin": { "lat": 36.1699, "lon": -115.1398 },
+  "destination": { "lat": 34.0522, "lon": -118.2437 },
+  "vehicle_state": {
+    "type": "truck",
+    "battery_level": 80,
+    "health_status": "ok",
+    "driver_hours_used": 4
+  },
+  "urgency": "normal",
+  "constraints": {
+    "max_risk_score": 0.3,
+    "policy_profile": "conservative"
+  },
+  "client_id": "fleet-ops-001"
+}

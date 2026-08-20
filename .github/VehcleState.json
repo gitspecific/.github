@@ -1,0 +1,9 @@
+{
+  "vehicle_state": {
+    "health_status": "warning",
+    "battery_level": 35
+  },
+  "constraints": {
+    "max_risk_score": 0.2
+  }
+}
